@@ -1,1 +1,2 @@
 From repo A.
+Added from localhost.
